@@ -1,0 +1,87 @@
+===============================================
+        JEEVAN REDDY
+    Full Stack Developer
+===============================================
+
+CONTACT INFORMATION
+-------------------
+Email: jeevanreddy862@gmail.com
+Phone: +91 8790452550
+Location: India
+LinkedIn: https://www.linkedin.com/in/jeevan-prem-nandha-reddy-rachapalli-0308b037a/
+Portfolio: https://jeevan099293.github.io/-Hackathon-deploython-jeevan-reddy-17-10-2025/
+
+PROFESSIONAL SUMMARY
+--------------------
+Dedicated and enthusiastic Full Stack Developer with a passion for creating innovative web solutions. 
+My approach to development is always focused on achieving goals and delivering exceptional results. 
+With experience in modern web technologies, I strive to build applications that are not only functional 
+but also provide an exceptional user experience.
+
+EDUCATION
+---------
+B.Tech in Computer Science Engineering
+Currently Pursuing
+
+TECHNICAL SKILLS
+----------------
+• HTML5 - 90%
+• CSS3 - 85%
+• JavaScript - 80%
+• React - 75%
+• Node.js - 70%
+• Git - 85%
+• Full Stack Development
+• Web Development
+• UI/UX Design
+
+KEY PROJECTS
+------------
+
+1. Anti-Cheating Quiz App
+   Description: A secure online quiz platform with advanced anti-cheating mechanisms 
+   including face detection, tab switching detection, and real-time monitoring to 
+   ensure exam integrity.
+   Technologies: React, Node.js, MongoDB, AI/ML
+
+2. Weather App
+   Description: A responsive weather application that provides real-time weather data 
+   using external API integration.
+   Technologies: JavaScript, API, CSS3
+
+3. Task Management System
+   Description: A collaborative task management tool with drag-and-drop functionality 
+   and real-time updates.
+   Technologies: React, Firebase, Material-UI
+
+CORE COMPETENCIES
+-----------------
+• Full Stack Web Development
+• Front-end Development (HTML, CSS, JavaScript, React)
+• Back-end Development (Node.js, MongoDB)
+• Responsive Web Design
+• API Integration
+• Version Control (Git/GitHub)
+• Problem Solving
+• Goal-Oriented Approach
+• Team Collaboration
+
+PERSONAL ATTRIBUTES
+-------------------
+• Focused on achieving goals
+• Strong problem-solving skills
+• Continuous learner
+• Adaptable to new technologies
+• Detail-oriented
+• Excellent communication skills
+
+INTERESTS
+---------
+• Web Development
+• Emerging Technologies
+• Open Source Contribution
+• Tech Communities
+
+===============================================
+Last Updated: October 2025
+===============================================
